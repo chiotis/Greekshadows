@@ -1,0 +1,29 @@
+<gallery>
+	<setup path="galleries/ftiaxtomonosou/"/>
+	<item>
+		<thumb></thumb>
+		<img>o1.jpg</img>
+		<caption>Τοποθέτηση λαβών στις φιγούρες</caption>
+	</item>
+	<item>
+		<thumb></thumb>
+		<img>o2.jpg</img>
+		<caption>Κατασκευή Σκηνής</caption>
+	</item>
+	<item>
+		<thumb></thumb>
+		<img>o3.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<thumb></thumb>
+		<img>o4.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<thumb></thumb>
+		<img>o5.jpg</img>
+		<caption></caption>
+	</item>
+		
+</gallery>
